@@ -93,6 +93,5 @@ It is not a full-featured shell, but a learning tool to understand systems progr
 *Depending on your OS and computer specs, certain errors may occur
 
 Author
-
-Jesunifemi Oluwasanmi
-Learning Systems Programming & OOP in Python $ Go
+Alpha Hato
+Studying Systems Programming & OOP in Python $ Go
