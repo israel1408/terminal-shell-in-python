@@ -90,6 +90,7 @@ Notes
 
 This shell is intended for educational purposes.
 It is not a full-featured shell, but a learning tool to understand systems programming concepts.
+*Depending on your OS and computer specs, certain errors may occur
 
 Author
 
